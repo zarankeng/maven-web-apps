@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://http://54.165.30.53:8081/repository/ebay-bts-by-zara-releases//</url>
+	      <url> http://54.165.30.53:8081/repository/ebay-bts-by-zara-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.165.30.53:8081/repository/ebay-bts-by-zara-snapshot//</url>
+	      <url>http://54.165.30.53:8081/repository/ebay-bts-by-zara-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
